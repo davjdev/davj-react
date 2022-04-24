@@ -19,11 +19,6 @@ function TopNav() {
             <Nav.Link className="top-navbar-link" href="#link">About</Nav.Link>
             <Nav.Link className="top-navbar-link" href="#link">Blog</Nav.Link>
           </div>
-        {/* </div> */}
-        {/* <div class="mr-auto top-navbar-brand-container">
-          <Nav.Link href="#link">Link</Nav.Link>
-          <Nav.Link href="#link">Link</Nav.Link>
-        </div> */}
       </Navbar>
     </div>
   );
