@@ -5,7 +5,7 @@
   background-color: #ffffff !important;
 }
 .flex-home-main-container {
-  padding: 100px 200px 0px 200px;
+  padding: 50px 200px 0px 200px;
   display: inline-block;
   align-items: center;
   justify-content: center;
@@ -82,7 +82,13 @@
   color: gray;
 }
 .brand-icon-small {
-  width: 30px;
+  width: 25px;
+  margin-left: 5px;
+  height: auto;
+  color: #364237;
+}
+.brand-icon-large {
+  width: 60px;
   height: auto;
   color: #364237;
 }

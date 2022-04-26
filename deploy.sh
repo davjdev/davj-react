@@ -12,7 +12,7 @@ echo Building. this may take a minute...
 npm run build
 
 # navigate into the build output directory
-cd dist
+cd build
 
 # if you are deploying to a custom domain
 echo 'davj.dev' > CNAME
@@ -24,4 +24,4 @@ git add -A && git commit -m "deploy"
 # deploy
 git push -f git@github.com:davjdev/davj-react.git master:gh-pages
 
-cd -
+cd ..
