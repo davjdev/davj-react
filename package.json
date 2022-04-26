@@ -1,7 +1,6 @@
 {
   "name": "davj-react",
   "version": "0.1.0",
-  // "homepage": "https://davjdev.github.io/davj-react",
   "homepage": "https://davj.dev",
   "private": true,
   "dependencies": {
